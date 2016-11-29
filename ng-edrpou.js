@@ -1,5 +1,5 @@
 'use strict';
-angular.module('ngEdrpou').directive('checkEdrpou', function () {
+angular.module('ngEdrpou', []).directive('checkEdrpou', function () {
 
     var linkFn = function (scope, elem, attrs, ngModelCtrl) {
         var getControlValue = function (edrpou, controls) {
