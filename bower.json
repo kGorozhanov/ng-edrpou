@@ -1,0 +1,30 @@
+{
+  "name": "ng-edrpou",
+  "main": "ng-edrpou.js",
+  "homepage": "https://github.com/kGorozhanov/ng-edrpou",
+  "authors": [
+    "kGorozhanov"
+  ],
+  "description": "Angularjs директива для проверки кода ЕДРПОУ",
+  "keywords": [
+    "ЕДРПОУ",
+    "OKPO",
+    "ОКПО",
+    "проверка",
+    "егрпоу",
+    "проверка",
+    "едрпоу"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.9"
+  }
+}
